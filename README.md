@@ -1,4 +1,4 @@
-<h1 align=center>hook-gen</h1>
+<h1 align=center>Hook Gen</h1>
 
 <div align=center>
 
@@ -73,19 +73,9 @@ python manage.py runserver
 # Backend API at http://127.0.0.1:8000/api
 ```
 
-### Shortcuts
 
-All API endpoints are accessible via the [Django REST framework](https://www.django-rest-framework.org/).
-The frontend React app at port 5173 communicates with the backend API.
-Check the [API documentation](#api-endpoints) for available routes.
 
-[To-Do]: Create widget that shows a shortcut cheatsheet <3 
-### PFP/Wallpapers
-
-The wallpapers for preview screenshots should be preferably placed in local config.
-If not working or to change, update the .env variables or use the frontend to refresh media.
-
-## Screenshots
+## Screenshot
 
 <img width="1663" height="1008" alt="Capture" src="https://github.com/user-attachments/assets/1b8821fb-0895-4a38-8ce4-7deeafc60714" />
 
