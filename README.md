@@ -18,15 +18,10 @@
 
 
 
-https://github.com/user-attachments/assets/ca645d61-5918-4a5c-a4f6-6f5c8fab76d5
 
 
 
 
-> [!NOTE]
-> Ollama setup not included
-
-Scroll down for Screenshots!
 
 ## Components
 
@@ -92,21 +87,10 @@ If not working or to change, update the .env variables or use the frontend to re
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a3a549e-582b-43a3-8232-d84d9797a960" />
+<img width="1663" height="1008" alt="Capture" src="https://github.com/user-attachments/assets/1b8821fb-0895-4a38-8ce4-7deeafc60714" />
 
 
-### App Launcher
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c24490d-2b48-413c-88ce-ac44abcd5665" />
 
-### Discord || Vesktop
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c82171ac-5b45-4cea-9515-129728793a20" />
-
-
-### Spotify
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c598cd0e-166d-4830-bc22-94053bc0349c" />
-
-### Zen Browser
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4a8e1bb8-5514-464b-83dd-6fbf3a806ae8" />
 
 ## Those Who Like my Repo <3
 
